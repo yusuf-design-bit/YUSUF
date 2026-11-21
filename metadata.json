@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Web",
+  "description": "Полнофункциональное веб-приложение Instagram: лента постов, Stories, Reels, поиск Explore, Direct сообщения, фотофильтры и профиль.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
